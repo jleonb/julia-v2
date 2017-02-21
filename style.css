@@ -135,9 +135,22 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 
 /* Bloc text custom styling */
 
+#bloc-0 a {
+	font-family: Shadows Into Light;
+	font-size: 1.2em;
+}
+#bloc-0 a:hover {
+	color: white!important;
+	background-color: #CA0C54!important;
+	border-radius: 4px;
+	font-weight: 700;
+}
 #bloc-2 h3{
 	font-weight: 700;
 	font-family: Shadows Into Light;
+}
+#bloc-2 img {
+	width: 10em;
 }
 #bloc-8 h3{
 	font-weight: 400;
@@ -146,6 +159,9 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #bloc-8 h4{
 	font-weight: 400;
 	font-family: Shadows Into Light;
+}
+#footer a {
+	color: 
 }
 
 /* = NavBar
@@ -182,9 +198,9 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 .navbar-nav .open .dropdown-menu > li > a{
 	text-align: inherit;
 }
-.nav > li a:hover, .nav > li a:focus{
+/* .nav > li a:hover, .nav > li a:focus{
 	background:transparent;
-}
+} */
 .navbar-toggle{
 	margin: 10px 10px 0 0;
 	border: 0px;
@@ -435,6 +451,13 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bgc-black{
 	background-color:#000000;
 }
+.bgc-body {
+	/* background-image: linear-gradient(to top, #e8198b 0%, #c7eafd 100%); */
+	/* background-image: linear-gradient(to top, #c71d6f 0%, #d09693 100%); */
+	background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+}
+
+
 /* Text colour styles */
 
 .tc-black{
@@ -455,8 +478,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Bloc image backgrounds */
 
-.bg-fondo{
-	background-image:url("img/fondo.jpg");
+.bg-footer{
+	background-image:url("img/ciudad.png");
 }
 
 
@@ -635,3 +658,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	   height: 320px;
     }
 }
+
+
+
