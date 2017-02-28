@@ -45,6 +45,20 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 .bloc-sm{
 	padding:20px 50px;
 }
+.bloc-xs{
+	padding:5px 50px;
+}
+
+/* = Sticky Nav
+-------------------------------------------------------------- */
+
+.sticky-nav.sticky{
+	position:fixed;
+	top:0;
+	z-index:1000;
+	box-shadow:0 1px 2px rgba(0,0,0,.3);
+	 transition: all .2s ease-out;
+}
 
 
 /* Background Effects */
@@ -136,8 +150,8 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 /* Bloc text custom styling */
 
 #bloc-0 a {
-	font-family: Shadows Into Light;
-	font-size: 1.2em;
+	font-family: 'Montserrat';
+	font-size: 1.1em;
 }
 #bloc-0 a:hover {
 	color: white!important;
@@ -151,6 +165,17 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 }
 #bloc-2 img {
 	width: 10em;
+}
+#bloc-3 .titulo {
+	font-weight: 700;
+	font-family: Shadows Into Light;
+}
+#bloc-3 h3, #bloc-4 h3, #bloc-6 h3, #bloc-7 h3, #bloc-7a h3 {
+	font-family: 'Montserrat', sans-serif;
+}
+#bloc-5 h3 {
+	font-weight: 700;
+	font-family: Shadows Into Light;
 }
 #bloc-8 h3{
 	font-weight: 400;
@@ -288,6 +313,10 @@ nav .caret{
 	margin-top:10px;
 	margin-bottom:20px;
 }
+.mg-lg{
+	margin-top:10px;
+	margin-bottom:40px;
+}
 img.mg-sm,img.mg-md,img.mg-lg{
 	margin-top: 0;
 }
@@ -314,6 +343,11 @@ img.mg-lg{
 	color:#FFF;
 	background:rgba(0,0,0,.3);
 }
+.btn-black {
+	background-color: black!important;
+	color: white!important;
+}
+
 
 /* Prevent ugly blue glow on chrome and safari */
 button{
@@ -468,6 +502,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .tc-debian-red{
 	color:#CA0C54!important;
+}
+.tc-rosado {
+	color: #F26281;
+}
+.tc-persian-pink {
+	color: #F07CBE;
 }
 /* Icon colour styles */
 
@@ -658,6 +698,5 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	   height: 320px;
     }
 }
-
 
 
