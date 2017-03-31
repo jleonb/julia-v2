@@ -333,6 +333,7 @@ img.mg-lg{
 /* = Buttons
 -------------------------------------------------------------- */
 
+
 .btn{
 	margin: 0 5px 5px 0;
 }
@@ -347,18 +348,33 @@ img.mg-lg{
 	background-color: black!important;
 	color: white!important;
 }
-
+.btn-julia {
+	background-color: #f5576c!important;
+	color: white!important;	
+}
 
 /* Prevent ugly blue glow on chrome and safari */
 button{
 	outline: none!important;
 }
 
+.btn-rd{
+	border-radius: 40px;
+}
+.btn-wire{
+	background:transparent!important;
+	border:2px solid transparent;
+}
+.btn-wire:hover{
+	background:transparent!important;
+	border:2px solid transparent;
+}
 .btn .caret{
 	margin:0 0 0 5px}.dropdown a .caret{
 	margin:0 0 0 5px}.btn-dropdown .dropdown-menu .dropdown{
 	padding: 3px 20px;
 }
+
 
 /* = Icons
 -------------------------------------------------------------- */
@@ -490,6 +506,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	/* background-image: linear-gradient(to top, #c71d6f 0%, #d09693 100%); */
 	background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
 }
+.modal-body {
+	background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);	
+}
 
 
 /* Text colour styles */
@@ -519,6 +538,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /* Bloc image backgrounds */
 
 .bg-footer{
+	background-image:url("img/ciudad.png");
+}
+.bg-title{
 	background-image:url("img/ciudad.png");
 }
 
@@ -698,5 +720,43 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	   height: 320px;
     }
 }
+
+
+
+/* Modal Products */
+
+.modal-content {
+	border-radius: 0px;
+}
+.modal-header h3 {
+	color: #CA0C54;
+	font-family: Montserrat;
+}
+
+.modal-body ul {
+	color: white;
+}
+.modal-body h4 {
+	color: white;
+	font-family: Montserrat;
+}
+.logo-webpay {
+	margin: 2em 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
