@@ -99,6 +99,24 @@
 		"oAP": "\/dominga_rojo.html",
 		"oF": 0
 		},
+	"\/emilia_cafe.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/emilia_cafe.html",
+		"oF": 0
+		},
+	"\/emilia_negro.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/emilia_negro.html",
+		"oF": 0
+		},
+	"\/enriqueta.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/enriqueta.html",
+		"oF": 0
+		},
 	"\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 4926,
@@ -236,7 +254,7 @@
 		"oA": 0,
 		"oAP": "\/icons\/icn-redcompra.png",
 		"oF": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/icons\/icn-transporte.png": {
@@ -256,7 +274,7 @@
 		"oA": 0,
 		"oAP": "\/icons\/icn-zapato.png",
 		"oF": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/close.png": {
@@ -365,6 +383,36 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/slider\/slide1.png": {
+		"ft": 32768,
+		"iS": 971906,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/slider\/slide1.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/slider\/slide2.png": {
+		"ft": 32768,
+		"iS": 510668,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/slider\/slide2.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/slider\/slide3.png": {
+		"ft": 32768,
+		"iS": 1104165,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/slider\/slide3.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/transbank.png": {
 		"ft": 32768,
 		"iS": 73067,
@@ -399,6 +447,24 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/jacinta_negro.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/jacinta_negro.html",
+		"oF": 0
+		},
+	"\/jacinta_rosado.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/jacinta_rosado.html",
+		"oF": 0
+		},
+	"\/josefina_azul.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/josefina_azul.html",
 		"oF": 0
 		},
 	"\/js\/blocs.min.js": {
@@ -473,6 +539,12 @@
 		"oAP": "\/anais_cafe.html",
 		"oF": 0
 		},
+	"\/kit\/babuchas_animal.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/babuchas_animal.html",
+		"oF": 0
+		},
 	"\/kit\/dominga_negro.kit": {
 		"ft": 2048,
 		"oA": 1,
@@ -481,8 +553,26 @@
 		},
 	"\/kit\/dominga_rojo.kit": {
 		"ft": 2048,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dominga_rojo.html",
+		"oF": 0
+		},
+	"\/kit\/emilia_cafe.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/emilia_cafe.html",
+		"oF": 0
+		},
+	"\/kit\/emilia_negro.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/emilia_negro.html",
+		"oF": 0
+		},
+	"\/kit\/enriqueta.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/enriqueta.html",
 		"oF": 0
 		},
 	"\/kit\/index.kit": {
@@ -490,6 +580,348 @@
 		"oA": 0,
 		"oAP": "\/index.html",
 		"oF": 0
+		},
+	"\/kit\/jacinta_dorado.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/jacinta_dorado.html",
+		"oF": 0
+		},
+	"\/kit\/jacinta_negro.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/jacinta_negro.html",
+		"oF": 0
+		},
+	"\/kit\/jacinta_rosado.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/jacinta_rosado.html",
+		"oF": 0
+		},
+	"\/kit\/jacinta_verde.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/jacinta_verde.html",
+		"oF": 0
+		},
+	"\/kit\/josefina_azul.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/josefina_azul.html",
+		"oF": 0
+		},
+	"\/kit\/natalia.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/natalia.html",
+		"oF": 0
+		},
+	"\/kit\/pia_azul.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/pia_azul.html",
+		"oF": 0
+		},
+	"\/kit\/pia_rosa.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/pia_rosa.html",
+		"oF": 0
+		},
+	"\/kit\/puntillas_blancas.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/puntillas_blancas.html",
+		"oF": 0
+		},
+	"\/kit\/puntillas_doradas.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/puntillas_doradas.html",
+		"oF": 0
+		},
+	"\/kit\/puntillas_rojas.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/puntillas_rojas.html",
+		"oF": 0
+		},
+	"\/kit\/romane_negro.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/romane_negro.html",
+		"oF": 0
+		},
+	"\/kit\/romane_toffee.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/romane_toffee.html",
+		"oF": 0
+		},
+	"\/kit\/vaqueras_gris.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/vaqueras_gris.html",
+		"oF": 0
+		},
+	"\/kit\/vaqueras_te.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/vaqueras_te.html",
+		"oF": 0
+		},
+	"\/natalia.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/natalia.html",
+		"oF": 0
+		},
+	"\/prod\/01_jacinta_negro.png": {
+		"ft": 32768,
+		"iS": 497891,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/01_jacinta_negro.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/prod\/02_jacinta_dorado.png": {
+		"ft": 32768,
+		"iS": 1504367,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/02_jacinta_dorado.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/prod\/03_jacinta_caferosado.png": {
+		"ft": 32768,
+		"iS": 1446765,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/03_jacinta_caferosado.png",
+		"oF": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/prod\/03_jacinta_caferosado.png.bak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/prod\/03_jacinta_caferosado.png.bak",
+		"oF": 0
+		},
+	"\/prod\/04_jacinta_verde.png": {
+		"ft": 32768,
+		"iS": 980442,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/04_jacinta_verde.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/05_anais_blanco.png": {
+		"ft": 32768,
+		"iS": 1333114,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/05_anais_blanco.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/06_anais_cafe.png": {
+		"ft": 32768,
+		"iS": 1308973,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/06_anais_cafe.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/07_amanda.png": {
+		"ft": 32768,
+		"iS": 1411554,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/07_amanda.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/08_pia_azul.png": {
+		"ft": 32768,
+		"iS": 396856,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/08_pia_azul.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/09_pia_rosa.png": {
+		"ft": 32768,
+		"iS": 809292,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/09_pia_rosa.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/10_enriqueta.png": {
+		"ft": 32768,
+		"iS": 1032280,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/10_enriqueta.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/11_emilia_negro.png": {
+		"ft": 32768,
+		"iS": 888225,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/11_emilia_negro.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/12_emilia_cafe.png": {
+		"ft": 32768,
+		"iS": 794474,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/12_emilia_cafe.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/13_dominga_rojo.png": {
+		"ft": 32768,
+		"iS": 1224934,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/13_dominga_rojo.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/14_dominga_negro.png": {
+		"ft": 32768,
+		"iS": 1291919,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/14_dominga_negro.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/15_josefina_azul.png": {
+		"ft": 32768,
+		"iS": 1365394,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/15_josefina_azul.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/16_natalia.png": {
+		"ft": 32768,
+		"iS": 1346475,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/16_natalia.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/17_romane_toffe.png": {
+		"ft": 32768,
+		"iS": 1208856,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/17_romane_toffe.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/18_romane_negro.png": {
+		"ft": 32768,
+		"iS": 923946,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/18_romane_negro.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/19_puntillas_rojas.png": {
+		"ft": 32768,
+		"iS": 1346717,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/19_puntillas_rojas.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/20_puntillas_doradas.png": {
+		"ft": 32768,
+		"iS": 1157902,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/20_puntillas_doradas.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/21_puntillas_blancas.png": {
+		"ft": 32768,
+		"iS": 916050,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/21_puntillas_blancas.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/22_babuchas_animalplanet.png": {
+		"ft": 32768,
+		"iS": 1112525,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/22_babuchas_animalplanet.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/23_vaqueras_gris.png": {
+		"ft": 32768,
+		"iS": 1487800,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/23_vaqueras_gris.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/prod\/24_vaqueras_teconleche.png": {
+		"ft": 32768,
+		"iS": 1309375,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/prod\/24_vaqueras_teconleche.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/prod\/amanda\/amanda_1.jpg": {
 		"ft": 16384,
@@ -607,6 +1039,12 @@
 		"oF": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/prod\/catalogo julia.xlsx": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/prod\/catalogo julia.xlsx",
+		"oF": 0
 		},
 	"\/prod\/dominga_negro\/dominga_negro_1.jpg": {
 		"ft": 16384,
@@ -746,6 +1184,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/puntillas_blancas.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/puntillas_blancas.html",
+		"oF": 0
+		},
+	"\/romane_negro.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/romane_negro.html",
+		"oF": 0
+		},
+	"\/romane_toffee.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/romane_toffee.html",
+		"oF": 0
+		},
+	"\/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -765,6 +1231,18 @@
 		"oAP": "\/style.min-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/vaqueras_gris.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vaqueras_gris.html",
+		"oF": 0
+		},
+	"\/vaqueras_te.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vaqueras_te.html",
+		"oF": 0
 		}
 	},
 "hooks": [
